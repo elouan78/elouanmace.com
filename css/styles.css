@@ -419,6 +419,15 @@ h6, .h6 {
   font-weight: 300;
 }
 
+.leadeer {
+  font-size: 1.55rem;
+}
+
+.leadeer:hover{
+  color: #00b0f0;
+  transition-delay:0.08s;
+}
+
 .display-1 {
   font-size: 6rem;
   font-weight: 300;
@@ -584,6 +593,10 @@ pre code {
 @media (min-width: 992px) {
   .container {
     max-width: 960px;
+  }
+
+  .leadeer {
+    font-size: 1.50rem;
   }
 }
 @media (min-width: 1200px) {
@@ -10372,3 +10385,4 @@ label.choice
 	padding:4px 0 5px;
 	width:90%;
 }
+
