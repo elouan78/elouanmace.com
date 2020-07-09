@@ -73,7 +73,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/fonds/creations/cubixserv.png" alt="" />
+                            <img class="img-fluid" src="assets/img/fonds/creations/cubixserv.png" alt="impression d'écran web" />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -172,7 +172,7 @@
                                     <div class="divider-custom">
                                         
                                     </div>
-                                    <!-- Portfolio Modal - Image--><a href="https://cubixserv.com" target="_blank"><img class="img-fluid rounded mb-5" src="assets/img/fonds/creations/cubixserv.png" alt="" /></a><!-- Portfolio Modal - Text-->
+                                    <!-- Portfolio Modal - Image--><a href="https://cubixserv.com" target="_blank"><img class="img-fluid rounded mb-5" src="assets/img/fonds/creations/cubixserv.png" alt="impression d'écran web" /></a><!-- Portfolio Modal - Text-->
                                     <p class="mb-5">J'ai réalisé ce site web pour l'entreprise CubixServ, une entreprise d'hébergement internet.</p>
                                     <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Retour</button>
                                 </div>
