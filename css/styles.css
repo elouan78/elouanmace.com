@@ -10361,6 +10361,11 @@ form .row:first-child .floating-label-form-group {
   z-index: 80;
 }
 
+.bg-apropos {
+  background-image: url('/assets/img/fonds/macbook-336704_1920.jpg');
+  z-index: 80;
+}
+
 #google_map {
 
 	
@@ -10386,3 +10391,16 @@ label.choice
 	width:90%;
 }
 
+.parallax {
+  /* The image used */
+  background-image: url("img_parallax.jpg");
+
+  /* Set a specific height */
+  height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
